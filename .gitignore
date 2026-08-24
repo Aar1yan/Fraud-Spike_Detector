@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/raw/*.csv
+data/processed/*.csv
+models/*
+!models/.gitkeep
+results/*
+!results/.gitkeep
+.venv/
+venv/
+.DS_Store
