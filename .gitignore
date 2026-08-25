@@ -3,8 +3,8 @@ __pycache__/
 .ipynb_checkpoints/
 data/raw/*.csv
 data/processed/*.csv
-models/*
-!models/.gitkeep
+!data/processed/test.csv
+!data/processed/test_scaled.csv
 results/*
 !results/.gitkeep
 .venv/

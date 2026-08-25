@@ -1,0 +1,43 @@
+{
+  "model_name": "random_forest",
+  "threshold": 0.3,
+  "val_pr_auc": 0.799412588206434,
+  "val_f1_at_threshold": 0.8333333333328372,
+  "leaderboard": {
+    "logistic_regression": 0.6858393374763166,
+    "random_forest": 0.799412588206434,
+    "hist_gradient_boosting": 0.6837344320529344
+  },
+  "feature_cols": [
+    "Time",
+    "V1",
+    "V2",
+    "V3",
+    "V4",
+    "V5",
+    "V6",
+    "V7",
+    "V8",
+    "V9",
+    "V10",
+    "V11",
+    "V12",
+    "V13",
+    "V14",
+    "V15",
+    "V16",
+    "V17",
+    "V18",
+    "V19",
+    "V20",
+    "V21",
+    "V22",
+    "V23",
+    "V24",
+    "V25",
+    "V26",
+    "V27",
+    "V28",
+    "Amount"
+  ]
+}
