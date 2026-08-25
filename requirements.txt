@@ -6,3 +6,5 @@ matplotlib
 seaborn
 jupyter
 shap
+streamlit
+plotly
